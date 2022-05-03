@@ -1,2 +1,2 @@
-module TestProj {
+module JavaPrograms {
 }
